@@ -1,0 +1,197 @@
+alias    Create an alias
+awk      Find and Replace text, database sort/validate/index
+bmon     Portable bandwidth monitor and rate estimator
+break    Exit from a loop
+builtin  Run a shell builtin
+cal      Display a calendar
+case     Conditionally perform a command
+cat      Display the contents of a file
+cd       Change Directory
+cfdisk   Partition table manipulator for Linux
+chgrp    Change group ownership
+chmod    Change access permissions
+chown    Change file owner and group
+chroot   Run a command with a different root directory
+cksum    Print CRC checksum and byte counts
+clear    Clear terminal screen
+cmp      Compare two files
+comm     Compare two sorted files line by line
+command  Run a command - ignoring shell functions
+continue Resume the next iteration of a loop
+cp       Copy one or more files to another location
+cron     Daemon to execute scheduled commands
+crontab  Schedule a command to run at a later time
+csplit   Split a file into context-determined pieces
+cut      Divide a file into several parts
+date     Display or change the date & time
+dc       Desk Calculator
+dd       Data Dump - Convert and copy a file
+declare  Declare variables and give them attributes
+df       Display free disk space
+diff     Display the differences between two files
+diff3    Show differences among three files
+dir      Briefly list directory contents
+dircolors Colour setup for `ls'
+dirname  Convert a full pathname to just a path
+dirs     Display list of remembered directories
+du       Estimate file space usage
+echo     Display message on screen
+ed       A line-oriented text editor (edlin)
+egrep    Search file(s) for lines that match an extended expression
+eject    Eject CD-ROM
+enable   Enable and disable builtin shell commands
+env      Display, set, or remove environment variables
+eval     Evaluate several commands/arguments
+exec     Execute a command
+exit     Exit the shell
+expand   Convert tabs to spaces
+export   Set an environment variable
+expr     Evaluate expressions
+factor   Print prime factors
+false    Do nothing, unsuccessfully
+fdformat Low-level format a floppy disk
+fdisk    Partition table manipulator for Linux
+fgrep    Search file(s) for lines that match a fixed string
+find     Search for files that meet a desired criteria
+finger   user information lookup program
+fmt      Reformat paragraph text
+fold     Wrap text to fit a specified width.
+for      Expand words, and execute commands
+format   Format disks or tapes
+free     Display memory usage
+fsck     Filesystem consistency check and repair.
+ftp      Internet file transfer program
+function Define Function Macros
+gawk     Find and Replace text within file(s)
+getopts  Parse positional parameters
+grep     Search file(s) for lines that match a given pattern
+groups   Print group names a user is in
+gzip     Compress or decompress named file(s)
+hash     Remember the full pathname of a name argument
+head     Output the first part of file(s)
+history  Command History
+hostname Print or set system name
+id       Print user and group id's
+if       Conditionally perform a command
+import   Capture an X server screen and save the image to file
+info     Help info
+install  Copy files and set attributes
+join     Join lines on a common field
+kill     Stop a process from running
+less     Display output one screen at a time
+let      Perform arithmetic on shell variables
+ln       Make links between files
+local    Create variables
+locate   Find files
+logname  Print current login name
+logout   Exit a login shell
+lpc      Line printer control program
+lpr      Off line print
+lprint   Print a file
+lprintd  Abort a print job
+lprintq  List the print queue
+lprm     Remove jobs from the print queue
+ls       List information about file(s)
+m4       Macro processor
+man      Help manual
+mkdir    Create new folder(s)
+mkfifo   Make FIFOs (named pipes)
+mknod    Make block or character special files
+more     Display output one screen at a time
+mount    Mount a file system
+mtools   Manipulate MS-DOS files
+mv       Move or rename files or directories
+netstat  Print network connections, routing tables, interface statistics, masquerade connections, ...
+nice     Set the priority of a command or job
+nl       Number lines and write files
+nohup    Run a command immune to hangups
+passwd   Modify a user password
+paste    Merge lines of files
+pathchk  Check file name portability
+popd     Restore the previous value of the current directory
+pr       Convert text files for printing
+printcap Printer capability database
+printenv Print environment variables
+printf   Format and print data
+ps       Process status
+pushd    Save and then change the current directory
+pwd      Print Working Directory
+quota    Display disk usage and limits
+quotacheck Scan a file system for disk usage
+quotactl Set disk quotas
+ram      ram disk device
+rcp      Copy files between two machines.
+read     read a line from standard input
+readonly Mark variables/functions as readonly
+remsync  Synchronize remote files via email
+return   Exit a shell function
+rm       Remove files
+rmdir    Remove folder(s)
+rpm      Remote Package Manager
+rsync    Remote file copy (Synchronize file trees)
+screen   Terminal window manager
+sdiff    Merge two files interactively
+sed      Stream Editor
+select   Accept keyboard input
+seq      Print numeric sequences
+set      Manipulate shell variables and functions
+shift    Shift positional parameters
+shopt    Shell Options
+shutdown Shutdown or restart linux
+sleep    Delay for a specified time
+sort     Sort text files
+source   Run commands from a file `.'
+split    Split a file into fixed-size pieces
+stat     Display file or file system status
+su       Substitute user identity
+sum      Print a checksum for a file
+symlink  Make a new name for a file
+sync     Synchronize data on disk with memory
+tac      Concatenate and write files in reverse
+tail     Output the last part of files
+tar      Tape ARchiver
+tee      Redirect output to multiple files
+test     Evaluate a conditional expression
+time     Measure Program Resource Use
+times    User and system times
+touch    Change file timestamps
+top      List processes running on the system
+traceroute Trace Route to Host
+trap     Run a command when a signal is set(bourne)
+tr       Translate, squeeze, and/or delete characters
+true     Do nothing, successfully
+tsort    Topological sort
+tty      Print filename of terminal on stdin
+type     Describe a command
+ulimit   Limit user resources
+umask    Users file creation mask
+umount   Unmount a device
+unalias  Remove an alias
+uname    Print system information
+unexpand Convert spaces to tabs
+uniq     Uniquify files
+units    Convert units from one scale to another
+unset    Remove variable or function names
+unshar   Unpack shell archive scripts
+until    Execute commands (until error)
+useradd  Create new user account
+usermod  Modify user account
+users    List users currently logged in
+uuencode Encode a binary file
+uudecode Decode a file created by uuencode
+v        Verbosely list directory contents (`ls -l -b')
+vdir     Verbosely list directory contents (`ls -l -b')
+vi       Text Editor
+vnstat   a console-based network traffic monitor
+w        Show who is logged on and what they are doing
+watch    Execute/display a program periodically
+wc       Print byte, word, and line counts
+whereis  Report all known instances of a command
+which    Locate a program file in the user's path.
+while    Execute commands
+who      Print all usernames currently logged in
+whoami   Print the current user id and name (`id -un')
+xargs    Execute utility, passing constructed argument list(s)
+yes      Print a string until interrupted
+.period  Run commands from a file
+###      Comment / Remark
