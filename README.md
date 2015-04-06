@@ -1,8 +1,8 @@
-Big picture files computing program. This program uses a cluster of computers to compute the picture files. It implements "Safra" algorithm of to stop the cluster after all tasks are done.
+Quick unit test generates, executes unit tests and produces reports for a given C function.
 
-Language: Java
+Language: C, Python, XML
 
-Technology: RMI, Swing
+Technology: GTK, XMLlib
 
 Tags: Unittest, Generator, Report, C, Python, GTK, XML, XMLlib
 
