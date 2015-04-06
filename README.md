@@ -4,6 +4,6 @@ Language: Java
 
 Technology: RMI, Swing
 
-Tags: Cluster, java, Swing, Networking, token, imagery, Academic, Algorithm, Distributed, Safra
+Tags: Unittest, Generator, Report, C, Python, GTK, XML, XMLlib
 
 <img src="https://github.com/yoeo/iterminal/blob/master/screen.jpg" />
